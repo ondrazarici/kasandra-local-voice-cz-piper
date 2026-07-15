@@ -12,7 +12,7 @@ Většina hlasových asistentů buď neumí česky, nebo vyžaduje připojení k
 ## Jak Kasandru získat?
 Vývoj a trénink vlastního hlasového modelu vyžaduje čas a prostředky. Pokud se ti můj projekt líbí a chceš jej využít ve své chytré domácnosti nebo podpořit další vývoj, můžeš si kompletní balíček (včetně licenčních podmínek) zakoupit na mém Gumroad profilu:
 
-👉 **[Získat Kasandru na Gumroad] (https://osimek.gumroad.com/l/kasandra)**
+👉 **[Získat Kasandru na Ko-fi] (https://ko-fi.com/s/d4aed49e87)**
 
 ## Technické informace
 * **Formát:** ONNX model (kompatibilní s Piper).
