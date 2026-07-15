@@ -1,4 +1,4 @@
-# Kasandra - Local AI Voice (CZ)
+# Kasandra - Piper voice (CZ)
 
 Kasandra je vysoce kvalitní, lokální český hlasový model vytvořený pro **Piper TTS**. Je navržen tak, aby přinesl přirozeně znějící českou syntézu řeči do tvé chytré domácnosti (např. Home Assistant) bez nutnosti odesílat jediný bajt dat do cloudu.
 
